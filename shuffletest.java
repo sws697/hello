@@ -26,7 +26,7 @@ public class shuffletest {
         for(int j=0;j<N;j++){
             shuffle1(a);
             for (int i = 0; i < M; i++) {
-                b[i][a[i]]++;
+                b[i][a[i]]++;//统计某数落在i位置上的次数
                 a[i] = i;
             }
         }
