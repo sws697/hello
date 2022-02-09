@@ -51,7 +51,7 @@ while(!StdIn.isEmpty()) {
         op.push(s);
     }
     else if(s.equals(")")){
-        double val
+        double val;
     }
 }
 

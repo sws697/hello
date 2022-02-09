@@ -12,8 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/.lift" />
-      <excludePattern pattern="*.iml" />
-      <excludePattern pattern="*.class" />
+      <excludeFolder url="file://$MODULE_DIR$/edu" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
